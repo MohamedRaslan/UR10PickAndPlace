@@ -15,7 +15,7 @@ Peter Corke Robotics Toolbox:
                i just used the toolbox to get the inverse kinematics of the robotic arm
        how to Use Peter corke Toolbox forward and inverse kinematics
         2. https://www.youtube.com/watch?v=UdzAq-mPC-4&t=37s [bad resolution :'))]
-        3. https://www.youtube.com/watch?v=UdzAq-mPC-4&t=37s [In Arabic]
+        3. https://www.youtube.com/watch?v=HvtD1tgpC3s&list=PLR1KtmaCt9BkKra5-2jrTwjvLgLCKm-Wc&index=14 [english subtitle]
        See Here the Inverse Kinematics Method in Peter corke toolbox
         4. https://blog.csdn.net/philthinker/article/details/78975182#homogeneous-representation  
   And You can get the detailed implementation of the Peter corke functions 
