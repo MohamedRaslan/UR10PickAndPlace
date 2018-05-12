@@ -207,7 +207,7 @@ g(1:3,4)=[0 1 0.7301];
 moveFrame( id, vrep, g, handles.ur10Cuboids(2), handles.base );
 g(1:3,4)=[0.25 1 0.7301];
 moveFrame( id, vrep, g, handles.ur10Cuboids(3), handles.base ); 
-
+pause(2);
    
 %%% 2nd Sequence
 for i=1:3
