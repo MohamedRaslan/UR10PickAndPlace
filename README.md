@@ -1,7 +1,7 @@
 # UR10PickAndPlace
 Video: https://www.youtube.com/watch?v=_h7UCMDZQhQ&feature=youtu.be
    
-   it's a very simple script using matlab and Vrep APIs the project workson UR10 and could be 
+   it's a very simple script using matlab and Vrep APIs the project works on UR10 and could be 
    modified to work with UR3 And UR5, it need a lot of enhancements to be better but i thought it would be helpful
    to put it here So feel free to use it.
    
