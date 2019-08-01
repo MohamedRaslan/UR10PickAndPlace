@@ -10,10 +10,10 @@ See the video **[Here](https://www.youtube.com/watch?v=_h7UCMDZQhQ&feature=youtu
     the below links could help you to know more about them
 
  - **Peter Corke robotics toolbox And some good video tutorials about it :**
-   1. Downlaod the robotics toolbox:
+   1. Download the robotics toolbox:
    
       You can find it inside this repo **[Here](/Main/RoboticsToolbox_installation/)**
-      Or you can downlaod it from **[Peter Corke Website](https://petercorke.com/wordpress/toolboxes/robotics-toolbox)**.
+      Or you can download it from **[Peter Corke Website](https://petercorke.com/wordpress/toolboxes/robotics-toolbox)**.
        
           I just used the toolbox to get the inverse kinematics of the robotic arm using the DH Parameter.
    2. See the Peter Corke robotics toolbox Manual to understand the detailed implementation of the Peter corke functions, 
