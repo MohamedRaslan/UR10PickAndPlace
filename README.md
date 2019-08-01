@@ -32,4 +32,4 @@ See the video **[Here](https://www.youtube.com/watch?v=_h7UCMDZQhQ&feature=youtu
           In the video, you will understand how to remotely control your robot in the verp from a Matlab Script
    4. Remote API Functions ( For [Matlab](http://www.coppeliarobotics.com/helpFiles/en/remoteApiFunctionsMatlab.htm) ).
    
-          In the Remote API functions (Matlab) website you will find out how to use the API functions for Matlab
+          In the Remote API functions (Matlab) website you will find out how to use the Verp API functions for Matlab
