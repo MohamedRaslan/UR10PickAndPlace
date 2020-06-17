@@ -5,7 +5,7 @@ See the video **[Here](https://www.youtube.com/watch?v=_h7UCMDZQhQ&feature=youtu
    work with UR3 or UR5, it need a lot of enhancements to be better but i thought it would be helpful to
    put it here so feel free to use it.
    
-## Sources 
+## Resources 
     if you don't know much about the Vrep or Peter Corke, i think 
     the below links could help you to know more about them
 
