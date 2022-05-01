@@ -1,4 +1,4 @@
-# UR10PickAndPlace readmeFile
+# UR10PickAndPlace
 See the video **[Here](https://www.youtube.com/watch?v=_h7UCMDZQhQ&feature=youtu.be)**
    
    It's a very simple script using matlab and Vrep APIs the project works on UR10 and could be modified to 
